@@ -1,6 +1,6 @@
 <?php
 
-namespace Bellisq\WebApplication\View;
+namespace Bellisq\WebApplication;
 
 
 /**

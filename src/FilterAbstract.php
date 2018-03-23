@@ -1,8 +1,9 @@
 <?php
 
-namespace Bellisq\WebApplication\Filter;
+namespace Bellisq\WebApplication;
 
 use Bellisq\Request\RequestMutable;
+use Bellisq\WebApplication\Filter\FilterResultContainer;
 
 
 /**

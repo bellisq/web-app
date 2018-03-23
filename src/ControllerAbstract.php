@@ -1,6 +1,6 @@
 <?php
 
-namespace Bellisq\WebApplication\Controller;
+namespace Bellisq\WebApplication;
 
 
 /**
